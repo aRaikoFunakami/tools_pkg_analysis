@@ -1,0 +1,24 @@
+region,num,sales_type,sales_type2,market,pj_code,customer,pj_name,product,status,2024-01,2024-02,2024-03,2024-04,2024-05,2024-06,2024-07,2024-08,2024-09,2024-10,2024-11,2024-12,total,currency,jpy_total
+AE,10,Royalty,0,Car,I22010R,JLR,T4C China,T4C,[B]Prospective Win,,0,,,0,0,0,,,,,30000,30000,EUR,3900000
+AE,11,Royalty,Royalty,Car,0,Mahindra,In Car Entertainment,T4C,[B]Prospective Win,0,0,0,0,0,0,0,0,0,0,3120,0,3120,EUR,405600
+AE,13,Royalty,Royalty,Car,0,Lynk & Co,In Car Entertainment,T4C,[C]Risk,0,0,0,0,0,0,0,0,0,0,0,17100,17100,EUR,2223000
+AE,15,Royalty,License,Car,0,Harman Ignite - Tata,0,T4C,[A]Closed / Won and Booked,0,0,14627.6,0,0,0,15558.49,0,43500,0,0,58000,131686.09,EUR,17119191.7
+AE,16,Royalty,License,Car,0,Harman Ignite - CARIAD,0,T4C,[B]Prospective Win,0,0,0,0,0,0,0,0,37500,0,0,37500,75000,EUR,9750000
+AE,17,Royalty,Royalty,Car,0,Fisker,Ocean,T4C,[A]Closed / Won and Booked,0,6577.35,0,0,0,0,0,,,,,,6577.35,EUR,855055.5
+AE,19,Royalty,Royalty,Car,0,Lucid Motors,Apple Music,T4C,[C]Risk,0,0,0,0,0,0,0,0,32716,0,0,,32716,EUR,4253080
+AE,20,Royalty,License,Car,0,Lucid Motors,Apple Music,T4C,[C]Risk,0,0,0,0,0,0,0,0,,,0,105000,105000,EUR,13650000
+AE,21,Royalty,Royalty,Car,0,XPENG,0,T4C,[A]Closed / Won and Booked,0,0,1500,0,7033.33,381.61,16389.46,0,5120,0,0,5120,35544.4,EUR,4620772.0
+AE,22,Royalty,License,Car,0,XPENG,App Store + OIB,T4C,[C]Risk,0,0,0,0,0,0,0,0,0,0,0,25000,25000,EUR,3250000
+AE,30,Royalty,License,DTV / STB,0,Ocilion,NRE for BE,NFBE,[C]Risk,0,0,0,0,0,0,0,,,,,50000,50000,EUR,6500000
+AE,31,Royalty,Royalty,DTV / STB,0,Nuuday,Browser for hospital,NFBE,[C]Risk,0,0,0,0,0,0,0,,,,,30000,30000,EUR,3900000
+AE,32,Royalty,Support / Maintenance,DTV / STB,0,Nuuday,Browser for hospital,NFBE,[C]Risk,0,0,0,0,0,0,0,,,,,30000,30000,EUR,3900000
+AE,50,Royalty,License,Car,I22010L,JLR,JLR T4C cloud license deferred,T4C,[A]Closed / Won and Booked,1229.51,1229.51,1229.51,1229.51,1229.51,1229.51,1229.51,1229.51,1229.51,1229.51,1229.51,1229.51,14754.12,EUR,1918035.6
+AE,51,Royalty,License,Car,I21014N,Harman,Harman T4C SW5 deferred,T4C,[A]Closed / Won and Booked,622.6415094339623,622.6415094339623,622.6415094339623,622.6415094339623,622.6415094339623,622.6415094339623,622.6415094339623,622.6415094339623,622.6415094339623,622.6415094339623,622.6415094339623,622.6415094339623,7471.698113207549,EUR,971320.7547169813
+AE,52,Royalty,License,Car,I22031L,Fisker,Fisker T4C cloud license deferred,T4C,[A]Closed / Won and Booked,819.672131147541,819.672131147541,819.672131147541,819.672131147541,819.672131147541,819.672131147541,819.672131147541,819.672131147541,819.672131147541,819.672131147541,819.672131147541,819.672131147541,9836.065573770493,EUR,1278688.524590164
+NR,10,Royalty,Royalty,Car,0,GWM,AOSP Infotainment Project,T4C,[B]Prospective Win,0,0,0,0,0,0,0,0,9006,0,0,9006,18012,EUR,2341560
+NR,11,Royalty,Royalty,Car,0,CVT Auto,AOSP Infotainment Project/MTK,T4C,[C]Risk,0,0,0,0,0,0,0,0,0,0,0,125000,125000,EUR,16250000
+AS,1,Royalty,Royalty,Car,,LGE Auto(VW),NFBE ROY,NetFront BE,[B]Prospective Win,,,,,,,,,,368400000,,,368400000,KRW,36840000.0
+AS,3,Royalty,Royalty,DTV / STB,,HANDAN,NFBE ROY,NetFront BE,[C]Risk,,,,,,,,,,120000000,,,120000000,KRW,12000000.0
+AS,5,Royalty,License,DTV / STB,,INTEK,NFBE(SDK License),NetFront BE,[C]Risk,,,,,,,,,,,50000000,,50000000,KRW,5000000.0
+AS,6,Royalty,License,DTV / STB,,KAON,NFBE(SDK License),NetFront BE,[C]Risk,,,,,,,,,50000000,,,,50000000,KRW,5000000.0
+AS,7,Royalty,License,DTV / STB,,Montage,NFBE(SDK License),NetFront BE,[C]Risk,,,,,,,,,,,50000000,,50000000,KRW,5000000.0
